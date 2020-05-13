@@ -6,7 +6,7 @@
         "activityBarBadge.background": "#2A6EBB",
         "activityBarBadge.foreground": "#fff",
         "titleBar.activeBackground": "#2A6EBB",
-        "titleBar.inactiveBackground": "#fff",
+        "titleBar.inactiveBackground": "#2A6EBB",
         "titleBar.activeForeground": "#fff",
         "titleBar.inactiveForeground": "#fff"
     },
