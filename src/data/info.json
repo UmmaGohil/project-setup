@@ -1,0 +1,16 @@
+{
+    "title": "Tailwind + React Project",
+    "subtitle": "Here is some sub-text",
+    "box": ["Box One", "Box Two", "Box Three"],
+    "footer": {
+        "help": ["FAQ", "Portfolio FAQs", "Contact Us", "Site Map"],
+        "about": [
+            "About us",
+            "Who we are",
+            "Policies",
+            "Partnerships",
+            "Accreditation"
+        ],
+        "myAccount": ["Subscribe", "Update Details", "Update Email"]
+    }
+}
