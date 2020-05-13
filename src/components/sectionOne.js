@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import Banner from '../images/banner.png'
+import Banner from '../images/education.png'
 import { useSelector, useDispatch } from 'react-redux'
 import { viewData } from '../store/actions/data.action'
 
