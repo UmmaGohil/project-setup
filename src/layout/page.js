@@ -9,9 +9,9 @@ const propTypes = {
 
 const Page = ({ route, children }) => {
     return (
-        <div className="flex content-between flex-wrap  h-5">
+        <div>
             <Nav route={route} />
-            <div className="w-full h-10  pl-20 pr-2">{children}</div>
+            <div>{children}</div>
             <Footer />
         </div>
     )
