@@ -9,11 +9,11 @@ const propTypes = {
 
 const Page = ({ route, children }) => {
     return (
-        <div class="w-full">
+        <>
             <Nav route={route} />
-            <div>{children}</div>
+            <div className="w-full">{children}</div>
             <Footer />
-        </div>
+        </>
     )
 }
 

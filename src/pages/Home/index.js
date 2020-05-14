@@ -7,8 +7,14 @@ import Two from '../../components/sectionTwo'
 const Home = () => {
     return (
         <Page>
-            <One />
-            <Two />
+            <div class="flex w-full flex-col">
+                <div class="w-full">
+                    <One />
+                </div>
+                <div class="w-full">
+                    <Two />
+                </div>
+            </div>
         </Page>
     )
 }
