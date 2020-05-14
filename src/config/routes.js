@@ -7,6 +7,7 @@ const routes = [
         exact: true,
         component: Home,
         name: Home,
+        title: 'hello',
     },
     {
         path: '/PageTwo',
