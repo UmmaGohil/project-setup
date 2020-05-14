@@ -11,8 +11,8 @@ const SectionTwo = () => {
         dispatch(viewData())
     }, [dispatch])
     return (
-        <div class="bg-goldendream-500 text-gray-800 p-10">
-            <div class="grid grid-cols-3 gap-4">
+        <div class="flex bg-goldendream-500">
+            <div class="w-full p-10 grid grid-cols-3 gap-4">
                 {box === undefined ? (
                     <p>loading</p>
                 ) : (

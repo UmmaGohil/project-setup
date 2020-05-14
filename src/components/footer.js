@@ -12,7 +12,7 @@ const Footer = () => {
     }, [dispatch])
 
     return (
-        <footer class="absolute inset-x-0 bottom-0 w-full bg-blueribbon-800 text-deepblush-500 p-5 text-center">
+        <div class="flex flex-col h-screen justify-between bottom-0 w-full bg-blueribbon-800 text-deepblush-500 p-5 text-center">
             <div class="grid grid-flow-col grid-cols-3 gap-4 ">
                 <div>
                     <p class="font-bold">Help</p>
@@ -51,7 +51,7 @@ const Footer = () => {
                     )}
                 </div>
             </div>
-        </footer>
+        </div>
     )
 }
 

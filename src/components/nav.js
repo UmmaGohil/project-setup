@@ -5,7 +5,7 @@ class Nav extends Component {
     render() {
         return (
             <nav>
-                <ul class="flex fixed bg-white text-deepblush-500 w-full justify-center p-3">
+                <ul class="flex bg-white text-deepblush-500 w-full justify-center p-3">
                     <li class=" mr-6 ">
                         <Link to="/">Home</Link>
                     </li>

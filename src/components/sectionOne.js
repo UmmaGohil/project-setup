@@ -15,7 +15,7 @@ const SectionOne = () => {
     return (
         <div class="flex bg-perano-500">
             <div class="w-1/2 p-10">
-                <h1 class="  sm:text-lg md:text-4xl lg:text-6xl text-blueribbon-500">
+                <h1 class=" sm:text-lg md:text-4xl lg:text-6xl text-blueribbon-500">
                     {title}
                 </h1>
                 <h3 class="text-2xl text-white">{subtitle}</h3>
