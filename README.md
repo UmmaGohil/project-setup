@@ -1,8 +1,8 @@
-# React + Tailwind Project
+# 🖥️React + Tailwind Project
 
 This project is a demo of Tailwind with React. Redux has also been added to this project.
 
-### Technical Details
+### 💡Technical Details
 
 -   This UI was built using ReactJS and Tailwind on the front-end
 
@@ -10,7 +10,11 @@ This project is a demo of Tailwind with React. Redux has also been added to this
 
 -   `React-router-config` is used for routing
 
-### How to Run the App
+### ⌨️How to Run the App
 
 -   `yarn`
 -   `yarn start`
+
+### 🔍View the Project
+
+https://happy-elion-6c8452.netlify.app/
